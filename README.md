@@ -1,5 +1,4 @@
 <h1 align="center">Hi , I'm Victor Uriel Leyva</h1>
-<h3 align="center">Data Analyst | Python • SQL • Data Visualization</h3>
 <p align="center">
   <img src="https://github.com/uleyvam/uleyvam/blob/main/connecting-lines-dots-with-floating-particles.jpg?raw=true" width="500"/>
 </p>
