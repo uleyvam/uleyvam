@@ -1,6 +1,8 @@
 <h1 align="center">Hi , I'm Victor Uriel Leyva</h1>
 <h3 align="center">Data Analyst | Python • SQL • Data Visualization</h3>
-
+<p align="center">
+  <img src="https://github.com/uleyvam/uleyvam/blob/main/connecting-lines-dots-with-floating-particles.jpg?raw=true" width="500"/>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />  
@@ -30,11 +32,8 @@ I’m currently enhancing my skills through the [TripleTen Data Analytics Bootca
 
 ---
 
-### 🚀 What I'm Working On
-
-- Building skills in **Power BI** & **Data Storytelling**
-- Studying for **SQL certification**
-- Analyzing open datasets and improving reporting automation
+### 🎵 Fun Fact  
+When I'm not working or learning from data, I make music with my rock band named **"Surface"** — I play the synths. I love synths!  
 
 ---
 
